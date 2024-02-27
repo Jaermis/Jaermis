@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Jaermis
+- 👀 I’m interested in Software Development, Web Development, and Embedded Systems
+- 🌱 I’m currently learning my interests, studying BS in Computer Enginering @ CIT-U
+- 💞️ I’m looking to collaborate on any project that improves my current skills
+- 📫 How to reach me? Just email me on jermynejosh.kaquilala@gmail.com
+- 😄 Pronouns: He/Hom
+- ⚡ Fun fact: I am an artist as well ^^
