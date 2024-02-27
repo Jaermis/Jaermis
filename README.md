@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning my interests, studying BS in Computer Enginering @ CIT-U
 - 💞️ I’m looking to collaborate on any project that improves my current skills
 - 📫 How to reach me? Just email me on jermynejosh.kaquilala@gmail.com
-- 😄 Pronouns: He/Hom
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an artist as well ^^
