@@ -40,10 +40,10 @@
 <h2 align="center">📊Stats📊</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaermis&theme=ambient-gradient&border=white&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaermis&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img width="370px" src="https://streak-stats.demolab.com?user=Jaermis&theme=ambient-gradient&border=white&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Jaermis&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github&border_radius=10" alt="readme stats" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaermis&hide=HTML&langs_count=8&layout=donut&theme=ambient_gradient&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaermis&hide=HTML&langs_count=8&layout=donut&theme=ambient_gradient&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
