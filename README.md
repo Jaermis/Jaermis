@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒Languages-Frameworks-Tools</h2>
+<h2 align="center">⚒Languages-Frameworks-Tools⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,c,cs,ts,dotnet,angular" />
@@ -25,7 +25,7 @@
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>📈My Contributions📈</h2>
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaermis/Jaermis/output/github-contribution-grid-snake-dark.svg" />
@@ -37,7 +37,7 @@
 
 <hr/>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">📊Stats📊</h2>
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaermis&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=20232A" alt="GitHub Streak" /></a>
