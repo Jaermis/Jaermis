@@ -17,7 +17,7 @@
 <h2 align="center">⚒Languages-Frameworks-Tools⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cs,ts,dotnet,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cs,ts,python,dart,dotnet,angular,react,flutter" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git,ae,ps,arduino" /><br>
 </div>
 
