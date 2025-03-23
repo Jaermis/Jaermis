@@ -17,8 +17,8 @@
 <h2 align="center">⚒Languages-Frameworks-Tools⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cs,ts,python,dart,dotnet,angular,react,flutter" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git,ae,ps,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,cypress,c,cs,cpp,js,ts,py,dart,dotnet,angular,react,vue,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git,ae,ps,arduino,matlab,netlify" /><br>
 </div>
 
 <br/>
