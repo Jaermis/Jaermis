@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jaermis.visitor-badge&format=true"/>
 
-<img src="https://github.com/Jaermis/Jaermis/assets/138207746/0c1e0fb0-9075-4404-be67-7b947abde554" />
+<!-- <img src="https://github.com/Jaermis/Jaermis/assets/138207746/0c1e0fb0-9075-4404-be67-7b947abde554" /> -->
 
 <div align="center"> 
   <a href="mailto:jermynejosh.kaquilala@gmail.com">
