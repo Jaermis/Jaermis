@@ -58,7 +58,6 @@
 
 <!-- ================= GITHUB STATS (self-hosted via GitHub Actions, see workflow below) ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center"><i>Regenerated daily by a GitHub Action that runs in this repo — no external service, so it won't randomly break.</i></p>
 <br/>
 <div align="center">
   <img width="90%" src="metrics.svg" alt="GitHub metrics" />
