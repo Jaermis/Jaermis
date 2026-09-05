@@ -44,17 +44,6 @@
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git,ae,ps,arduino,matlab,netlify" /><br>
 </div>
-<br/>
-<!--
-  Jupyter and Antigravity don't have icons in the skillicons.dev set yet (there's an
-  open request for Jupyter, and Antigravity is too new to have a logo anywhere).
-  Kept as badges — same style as the contact badges up top — instead of forcing
-  them into the icon grid where they'd look inconsistent.
--->
-<div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logoColor=white" />
-</div>
 
 <hr/>
 
@@ -69,8 +58,14 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="480px" src="https://streak-stats.demolab.com?user=Jaermis&theme=ambient-gradient&border=white&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img width="480px" src="https://streak-stats.demolab.com?user=Jaermis&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="600" src="activity.svg" alt="Activity calendar" />
 </div>
 
 <hr/>
@@ -80,7 +75,7 @@
 <br/>
 <div align="center">
   <!-- Replace YOUR_SPOTIFY_UID after connecting your account — see setup notes below -->
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22axoron5cprxgohmgov7c2dy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
 <!-- ================= FOOTER ================= -->
