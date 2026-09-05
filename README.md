@@ -46,21 +46,23 @@
 </div>
 <br/>
 <!--
-  Jupyter and Antigravity aren't in the skillicons.dev icon set yet, so these
-  use shields.io badges instead — swap them in any time skillicons.dev adds native icons.
+  Jupyter and Antigravity don't have icons in the skillicons.dev set yet (there's an
+  open request for Jupyter, and Antigravity is too new to have a logo anywhere).
+  Kept as badges — same style as the contact badges up top — instead of forcing
+  them into the icon grid where they'd look inconsistent.
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logoColor=white" />
 </div>
 
 <hr/>
 
-<!-- ================= GITHUB STATS (self-hosted via GitHub Actions, see workflow below) ================= -->
+<!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
-  <img width="90%" src="metrics.svg" alt="GitHub metrics" />
+  <img width="320" src="metrics.svg" alt="Top languages" />
 </div>
 
 <br/>
@@ -71,21 +73,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="90%" src="activity.svg" alt="Activity calendar" />
-</div>
-
-<hr/>
-
-<!-- ================= ACHIEVEMENTS (self-hosted, replaces the broken Trophies widget) ================= -->
-<h2 align="center">🏆 Achievements</h2>
-<br/>
-<div align="center">
-  <img src="achievements.svg" alt="GitHub achievements" />
-</div>
-
 <hr/>
 
 <!-- ================= NOW PLAYING (Spotify) ================= -->
@@ -94,20 +81,6 @@
 <div align="center">
   <!-- Replace YOUR_SPOTIFY_UID after connecting your account — see setup notes below -->
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
-</div>
-
-<hr/>
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<div align="center">
-  <h2>📈 My Contributions 📈</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaermis/Jaermis/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaermis/Jaermis/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Jaermis/Jaermis/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br/>
 </div>
 
 <!-- ================= FOOTER ================= -->
