@@ -49,14 +49,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
-  <img width="320" src="metrics.svg" alt="Top languages" />
+  <img width="420" src="metrics.svg" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="480px" src="https://streak-stats.demolab.com?user=Jaermis&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img width="480" src="https://streak-stats.demolab.com?user=Jaermis&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -66,9 +66,6 @@
   <img width="600" src="activity.svg" alt="Activity calendar" />
 </div>
 
-<hr/>
-
-<!-- ================= NOW PLAYING (Spotify) ================= -->
 <!-- ================= NOW PLAYING (Spotify) ================= -->
 <h2 align="center">🎧 Now Playing</h2>
 <br/>
